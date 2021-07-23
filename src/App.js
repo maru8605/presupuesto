@@ -9,7 +9,7 @@ function App() {
   const [verpregunta, setPregunta] = useState(true);
 
   return (
-    <div className0='container'>
+    <div className='container'>
       <header>
         <h1>Presupuesto</h1>
         <div className='contenido-principal contenido'>
