@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import Error from './component/Error';
 
-const Formulario = () => {
+const Formulario = ( {agregarNuevoGasto} ) => {
 
 
     const [nombre, guardarNombre] = useState('');
@@ -18,10 +18,19 @@ const Formulario = () => {
         }
             setError(false);
         //construir el gasto
+        const gasto = {
+            nombre, 
+            cantidad
+        }
+        gasto.id = Math.floor(Math.random() * 10000) + 1
+
 
         //pasar gasto a componente principal.
+        agregarNuevoGasto(gasto)
 
         //reset del form
+        guardarNombre('');
+        guardarCantidad(0);
     }
     return (
         <form
