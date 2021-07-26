@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import Error from './component/Error';
 
-const Formulario = ( {agregarNuevoGasto} ) => {
+const Formulario = ( {setGasto, setCrearGasto} ) => {
 
 
     const [nombre, guardarNombre] = useState('');
@@ -26,7 +26,8 @@ const Formulario = ( {agregarNuevoGasto} ) => {
 
 
         //pasar gasto a componente principal.
-        agregarNuevoGasto(gasto)
+        setGasto(gasto);
+        setCrearGasto(true);
 
         //reset del form
         guardarNombre('');
