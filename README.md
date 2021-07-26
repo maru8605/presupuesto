@@ -2,7 +2,7 @@
 
 Aplicación construida en React, cuya funcionalidad es gestionar un presupuesto determinado por el usuario. 
 
-## Si queres ver la app en acción visita : [https://app.netlify.com/sites/youthful-ramanujan-ff82dc/overview]
+## Si queres ver la app en acción visita : https://youthful-ramanujan-ff82dc.netlify.app
 
 ## Si queres verla en tu propia Computadora:
 
