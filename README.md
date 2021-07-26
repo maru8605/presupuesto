@@ -15,6 +15,9 @@ Aplicación construida en React, cuya funcionalidad es gestionar un presupuesto 
 
 ![Captura de pantalla (18)](https://user-images.githubusercontent.com/55419544/127060198-5ee261a8-5d88-438f-afae-59a31696e226.png)
 
+![presupuesto](https://user-images.githubusercontent.com/55419544/127060808-701165c7-9285-4971-8059-d171e31615ff.png)
+
+
 
 
 
