@@ -8,6 +8,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-image: url("https://thumbs.dreamstime.com/b/calculadora-un-fondo-39034340.jpg");
+  background-size: cover;
 }
 header {
   margin: 30px 0;
@@ -16,7 +18,7 @@ header {
   padding: 20px;
 }
 .contenido-principal {
-  background-color: white;
+  background-color: rgb(238, 236, 236);
   padding: 30px;
   border-radius: 20px;
 }
