@@ -7,7 +7,7 @@
 ## ⚙️ Si queres verla en tu propia Computadora:
 
 - Clona el repositorio
-- En el directorio donde clonaste el proyecto ejecuta el comando
+- En el directorio donde clonaste el proyecto ejecuta el comando:
 
   ### `npm start`
   
