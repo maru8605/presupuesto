@@ -11,7 +11,7 @@
 
   ### `npm start`
   
-## :camera: Vistas de la app 
+## :camera: Vistas de la app.
 
 ![Captura de pantalla (19)](https://user-images.githubusercontent.com/55419544/127061216-48891ff2-3d18-4a4b-af66-644f4d697d02.png)
 
